@@ -16,7 +16,7 @@
   <groupId>kig1</groupId>
   <artifactId>kigpro1</artifactId>
   <packaging>war</packaging>
-  <version>2</version>
+  <version>3</version>
 
   <name>kigpro1</name>
   <url>http://maven.apache.org</url>
@@ -77,3 +77,8 @@
   </snapshotRepository>
 </distributionManagement> 
 </project>
+
+
+
+
+
