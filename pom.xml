@@ -67,12 +67,13 @@
   <repository>
     <id>deployment</id>
     <name>releases</name>
-    <url>http://192.168.29.13:8081/repository/maven-releases/</url>
+    <url>http://13.233.151.200:8081/repository/maven-releases/</url>
   </repository>
   <snapshotRepository>    
     <id>deployment</id>
     <name>snapshots</name>
-    <url>http://192.168.29.13:8081/repository/maven-snapshots/</url>
+    <url>http://13.233.151.200:8081/repository/maven-snapshots/</url>
+    
   </snapshotRepository>
 </distributionManagement> 
 </project>
