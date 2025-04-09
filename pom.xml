@@ -16,7 +16,7 @@
   <groupId>kig1</groupId>
   <artifactId>kigpro1</artifactId>
   <packaging>war</packaging>
-  <version>3</version>
+  <version>4</version>
 
   <name>kigpro1</name>
   <url>http://maven.apache.org</url>
@@ -67,12 +67,12 @@
   <repository>
     <id>deployment</id>
     <name>releases</name>
-    <url>http://13.233.151.200:8081/repository/maven-releases/</url>
+    <url>http://13.233.153.192:8081/repository/maven-releases/</url>
   </repository>
   <snapshotRepository>    
     <id>deployment</id>
     <name>snapshots</name>
-    <url>http://13.233.151.200:8081/repository/maven-snapshots/</url>
+    <url>http://13.233.153.192:8081/repository/maven-releases/</url>
     
   </snapshotRepository>
 </distributionManagement> 
